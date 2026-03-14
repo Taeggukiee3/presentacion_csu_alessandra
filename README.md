@@ -11,7 +11,7 @@ Hola! Soy Alessandra, me gusta que me digan Alessa o Lessa, me considero una per
 ## ; ♡⋆ Mi contexto dentro de la área de la tecnología.
 Actualmente y como ya había mencionado, estoy en un curso para mujeres llamado "WomenCiso" es de ciberseguridad e IA, tengo conocimientos de redes algo básico, C++ (fue lo que ocupe más en la preparatoria), C, Python, MySQL, Java muy básico, se realizar modelos de Machine Learning, Fundamentos de IA.
 
-## ; ♡⋆ Mis obejtivos ; ♡⋆
+## ; ♡⋆ Mis objetivos ; ♡⋆
 
 1.- En el ámbito escolar: Técnicamente quiero aprender algoritmos bioinspirados que me ayuden en mi desarrrollo profesional.
 2.- WomenCiso: Quiero que mi proyecto referente a la Ley Olimpia que ayudaría a mujeres víctimas de violación hacia su privacidad sea visibilizado y pueda ganar a primer proyecto para poder ayudar.
